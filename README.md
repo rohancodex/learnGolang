@@ -1,2 +1,2 @@
 # learnGolang
-My learnings while learning GO
+My learnings of GO
